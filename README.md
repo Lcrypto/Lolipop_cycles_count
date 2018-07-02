@@ -13,4 +13,5 @@ girthstat count statistics for QC-LDPC codes
 just put circulant size, number of VN and CN
 
 T. R. Halford and K. M. Chugg, “An algorithm for counting short cycles in bipartite graphs,” IEEE Trans. Inform. Theory,
-vol. 52, no. 1, pp
+vol. 52, no. 1, and
+https://www.slideshare.net/UsatyukVasiliy/enumerating-cycles-in-bipartite-graph-using-matrix-approach
