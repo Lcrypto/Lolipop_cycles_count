@@ -1,6 +1,12 @@
 # Lolipop_cycles_count
-T. R. Halford and K. M. Chugg Matlab implementation for LDPC codes cycles of girth, girth+2, girth+4 counting
-Example of use:
+The GitHub repository contains a MATLAB implementation of T. R. Halford and K. M. Chugg's algorithm for counting cycles of girth, girth+2, and girth+4 in Low-Density Parity-Check (LDPC) codes.
+
+The tool is provided as a MATLAB script and can be easily used to count the cycles of different girths in LDPC codes. The tool takes an LDPC code matrix as input and outputs the number of cycles of various girths in the code.
+
+To use the tool, simply provide an LDPC code parity-check matrix as input to the MATLAB script. The output will provide the number of cycles of girth, girth+2, and girth+4 in the code. This information can be useful for designing LDPC codes with specific properties or for analyzing the performance of existing LDPC codes.
+
+Example of use: 
+
 
 
 H=qc2sparse('6_4_24.txt');
